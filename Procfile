@@ -1,1 +1,1 @@
-web: gunicorn pet_pals.app:app
+web: gunicorn hiroku_deployment.app:app
